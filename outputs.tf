@@ -23,7 +23,6 @@ output "testers_id" {
   value       = github_team.team-testers.id
 }
 
-
 output "developers_id" {
   description = "Team of all developers in the repository (frontent, backend, devops and mobile developers)"
   value       = github_team.team-developers.id
