@@ -54,16 +54,16 @@ Resource that allows to declare [github teams](https://docs.github.com/en/organi
 
 | Name | Description |
 |------|-------------|
-| <a name="output_main_id"></a> [main\_id](#output\_main\_id) | n/a |
-| <a name="output_admins_id"></a> [admins\_id](#output\_admins\_id) | n/a |
-| <a name="output_visitors_id"></a> [visitors\_id](#output\_visitors\_id) | n/a |
-| <a name="output_testers_id"></a> [testers\_id](#output\_testers\_id) | n/a |
-| <a name="output_developers_id"></a> [developers\_id](#output\_developers\_id) | n/a |
-| <a name="output_developers_frontend_id"></a> [developers\_frontend\_id](#output\_developers\_frontend\_id) | n/a |
-| <a name="output_developers_backend_id"></a> [developers\_backend\_id](#output\_developers\_backend\_id) | n/a |
-| <a name="output_developers_devops_id"></a> [developers\_devops\_id](#output\_developers\_devops\_id) | n/a |
-| <a name="output_developers_mobile_id"></a> [developers\_mobile\_id](#output\_developers\_mobile\_id) | n/a |
-| <a name="output_data_science_id"></a> [data\_science\_id](#output\_data\_science\_id) | n/a |
+| <a name="output_main_id"></a> [main\_id](#output\_main\_id) | Team of all repository members |
+| <a name="output_admins_id"></a> [admins\_id](#output\_admins\_id) | Team of repository administrators |
+| <a name="output_data_science_id"></a> [data\_science\_id](#output\_data\_science\_id) | Data science repository team |
+| <a name="output_visitors_id"></a> [visitors\_id](#output\_visitors\_id) | Repository visitor team |
+| <a name="output_testers_id"></a> [testers\_id](#output\_testers\_id) | Repository testing team |
+| <a name="output_developers_id"></a> [developers\_id](#output\_developers\_id) | Team of all developers in the repository (frontent, backend, devops and mobile developers) |
+| <a name="output_developers_frontend_id"></a> [developers\_frontend\_id](#output\_developers\_frontend\_id) | Team of front-end developers in the repository |
+| <a name="output_developers_backend_id"></a> [developers\_backend\_id](#output\_developers\_backend\_id) | Team of back-end developers in the repository |
+| <a name="output_developers_mobile_id"></a> [developers\_mobile\_id](#output\_developers\_mobile\_id) | Team of mobile developers in the repository |
+| <a name="output_developers_devops_id"></a> [developers\_devops\_id](#output\_developers\_devops\_id) | Team of devops in the repository |
 
 ## Examples
 
