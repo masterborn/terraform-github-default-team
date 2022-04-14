@@ -70,7 +70,7 @@ Resource that allows to declare [github teams](https://docs.github.com/en/organi
 ### Basic example
 ```hcl
 module "team" {
-  source = "git@github.com:masterborn/terraform-github-default-team.git?ref=v0.0.0"
+  source = "git@github.com:masterborn/terraform-github-default-team.git?ref=v1.0.0"
 
   project_code_name    = "some-repository-name"
   admin_members        = ["john-doe"]
